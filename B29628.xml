@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The informations of John Sergeant and David Maurice, gentlemen relating to the Popish Plot (deliver'd by them upon their respective oaths), reported to the House of Commons, upon Saturday the 26th day of March, 1681, then ordered by the Commons in Parliament to be forthwith printed.</title>
+            <author>Sergeant, John, 1622-1707.</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29628</idno><idno type="EEBO-CITATION">8231347</idno>
+  <idno type="VID">204248</idno>
+  <idno type="EEBO-PROQUEST">2264207974</idno>
+  
+            <idno type="STC">Wing S2572</idno>
+            <idno type="OCLC">08231347</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204248)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1239:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The informations of John Sergeant and David Maurice, gentlemen relating to the Popish Plot (deliver'd by them upon their respective oaths), reported to the House of Commons, upon Saturday the 26th day of March, 1681, then ordered by the Commons in Parliament to be forthwith printed.</title>
+                  <author>Sergeant, John, 1622-1707.</author>
+                  <author>Maurice, David.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Gabriel Kunholt,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204248:1"/>
+            <pb facs="tcp:204248:1"/>
+            <pb facs="tcp:204248:2"/>
+            <p>THE INFORMATIONS OF JOHN SERGEANT, AND DAVID MAURICE, <hi>Gentlemen;</hi> RELATING TO THE <hi>POPISH-PLOT,</hi> (Deliver'd by them upon their respective <hi>Oaths</hi>) REPORTED <hi>To the HOƲSE of</hi> COMMONS, Upon <hi>Saturday</hi> the <hi>26th</hi> Day of <hi>March,</hi> 1681.</p>
+            <p>Then Ordered by the <hi>Commons</hi> IN PARLIAMENT, <hi>To be forthwith Printed.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Gabriel Kunholt,</hi> Book-Binder to His Highness Prince <hi>RUPERT;</hi> And are to be Sold at his Shop at the <hi>Kings-Head,</hi> over-against the <hi>Meuse.</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204248:3"/>
+            <pb n="1" facs="tcp:204248:3"/>
+            <head>THE Informations OF <hi>John Sergeant,</hi> AND <hi>David Maurice,</hi> Gentlemen. Relating to the <hi>POPISH PLOT,</hi> &amp;c.</head>
+            <div type="part">
+               <p>BEing in Company with an <hi>English</hi> Gentlewo<g ref="char:EOLhyphen"/>man in <hi>Flanders,</hi> who is a <hi>Roman</hi>-Catholick, about the later end of <hi>August,</hi> 1679, and the name of Mr. <hi>Gaven,</hi> one of the Five Jesuits who suffered that Summer, coming into discourse, she began to express with some horrour the scandal she had received from a wicked piece of Doctrine he maintain'd in her hearing, which was, <hi>That the</hi> Queen <hi>might Lawfully Kill the King for violating her Bed:</hi> And, that when she set her self to oppose it as most unchristian Doctrine, and tending to De<g ref="char:EOLhyphen"/>stroy Soul and Body both, and alledg'd, that there<g ref="char:EOLhyphen"/>fore it was better to suffer it patiently for God's sake, he with much vehemency and earnestness stood to it, <hi>That she might not onely lawfully do it, but was bound to it;</hi> and that, <hi>if she did not, she was guilty of his greater Damnation in letting him continue so long in sin.</hi> This is the substance of what she Related, and, as near as I can remember, the Words. This Gentlewomans surname is <hi>Skypwith,</hi> her Christen name (as I remember) <hi>Mary.</hi>
+               </p>
+               <pb n="2" facs="tcp:204248:4"/>
+               <p>It pleas'd His most sacred Majesty, to whom (as my Duty bound me) I had writ it before, when I appear'd before His most Honourable Privy-Council, the last Day of <hi>October</hi> following, to ask me what were my present Thoughts of the truth of that Relation at the time that I heard it, all Circumstances weighed; to which being then upon my Oath, as truth and Conscience oblieg'd me, I answered, <hi>That I did incline very much to be<g ref="char:EOLhyphen"/>lieve it:</hi> For which Rashness and Uncharitableness of mine (as some interpret it) in entertaining that sentiment so easily upon the Testimony of one single person, great noise has been made against me, as if Passion had Byast me to that persuasion. Wherefore to clear my ingenuity and sincerity in this point to His Majesty and His Council (of whose good Opinions onely I am Sollicitous) I humbly offer here the reasons which mov'd me to think thus: they are these.</p>
+               <p>I had particular reason to judge that this person was at this time that I knew her, and she related this, very scrupulously Conscientious and a good Woman; and I conceiv'd that her present dispo<g ref="char:EOLhyphen"/>sition was most (and indeed onely) to be consider<g ref="char:EOLhyphen"/>ed in that present Relation; nor had I ever heard any harm of her former Life.</p>
+               <p>She seem'd particularly Conscientious in mak<g ref="char:EOLhyphen"/>ing this Relation, lifting up her Hands and Eyes to Heaven with these words: <hi>God knows my Heart, I would not say it to gain the whole World if it were not true.</hi>
+               </p>
+               <pb n="3" facs="tcp:204248:4"/>
+               <p>I had never heard nor could then discern that she had the least pique against Mr. <hi>Gaven</hi>'s Order.</p>
+               <p>She spoke it voluntarily, none inciting or mo<g ref="char:EOLhyphen"/>ving her to it.</p>
+               <p>The manner, in which she deliver'd it, seemed very candid and unaffected; and it came out natu<g ref="char:EOLhyphen"/>rally and occasionally, nor did it at all look like a premeditated or sought thing.</p>
+               <p>She spoke it out of her sence of the Scandal she received by it, which seem'd a Mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ive well be<g ref="char:EOLhyphen"/>coming a good Christian; and so, an argument of her sincerity.</p>
+               <p>She told the same story the second time to ano<g ref="char:EOLhyphen"/>ther person, my self present; at least the substance of it.</p>
+               <p>She never recommended it as a secret either to him or me, whereas one who forges would be apt to desire the concealment of the false story they relate; lest by discovering it, it may come to be confuted and themselves shamed: which she had the more reason to fear, because the thing related was of so high a consequence.</p>
+               <p>She named time, place and persons present; which expos'd her to an easie confute if it were not true.</p>
+               <p>The Tenour also of the Discourse seemed to render it credible, her Objection being such as was likely to come from a good well-meaning person of her pitch; and his Reply abetting it very
+<pb n="4" facs="tcp:204248:5"/> like a Man wilfully bent to maintain an absurd position (as is the manner of Passion and Heat) with advancing another more absurd.</p>
+               <p>Now, as these considerations inclin'd me strong<g ref="char:EOLhyphen"/>ly to think her sincere, so it seem'd to me she could not be mistaken in the sense of his Discourse, or misunderstand him; the Doctrine being about a matter of Fact of the highest concern in the world: and the Words which are apt to express it not be<g ref="char:EOLhyphen"/>ing Artificial or Speculative, but natural and com<g ref="char:EOLhyphen"/>mon Language. Besides, her Contest with him about it must needs have Clear'd his meaning.</p>
+               <p>
+                  <hi>These are the Reasons why I apprehended that Relati<g ref="char:EOLhyphen"/>on to be true: which yet I produce not here to Charge Mr.</hi> Gaven, <hi>but to Discharge my own Credit and Con<g ref="char:EOLhyphen"/>science, and to give your</hi> Majesty <hi>and your</hi> Council <hi>the best light I am able to judge of that business.</hi>
+               </p>
+               <closer>
+                  <dateline>In Testimony of what's above, I subscribe my Name, <date>Feb. 11. 1679/80.</date>
+                  </dateline>
+                  <signed>Iohn Sergeant,</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:204248:5"/>
+               <head>THE INFORMATION OF David Morris.</head>
+               <p>I Underwritten do hereby upon Oath attest, That being last <hi>August</hi> at <hi>Brussels,</hi> and go<g ref="char:EOLhyphen"/>ing to see an old acquaintance, I found Mr. <hi>Serjeant</hi> there (little thinking to see him so near the Internuncio) he told me, there was a Gentlewoman who said that Mr. <hi>Gavan</hi> main<g ref="char:EOLhyphen"/>tained it was lawful for the Queen to kill the King, for violating her Bed: which I hardly believing, he brought me up stairs where she was, where I heard it with my own ears. Af<g ref="char:EOLhyphen"/>ter some discourse concerning the wickedness of such doctrines, I asked her, Where this happened? She answered (as I remember) in <hi>Covent-Garden,</hi> at the Brother-in-laws of Mr. <hi>Gavan,</hi> and named the persons that were present, whom I knew not; nor did I think further o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it, more than to admire the indis<g ref="char:EOLhyphen"/>cretion of his descending to such particulars, and her acting his heat to maintain his Paradox, when she opposed him: The rest, I knew to be agreeable to their Principles; having bought
+<pb n="6" facs="tcp:204248:6"/>
+                  <hi>Escobar</hi> some years since on purpose to see whe<g ref="char:EOLhyphen"/>ther the Provincial Letters misrepresented them or not: where I found it lawful to kill a man that calumniated a Religious Order: and I am sure that what makes lawful for a Jesuite to kill a man that wrongs his Order, makes also lawful for a Wife to kill her Husband if he wrongs her Bed.</p>
+               <p>My going to <hi>Brussels</hi> was to see what be<g ref="char:EOLhyphen"/>came of the Benevolence sent by the Pope to those Countreys for refug'd English Catho<g ref="char:EOLhyphen"/>licks; and found, who vow immediate obe<g ref="char:EOLhyphen"/>dience to the Pope to be the distributers, and who swore no Allegiance but to their King, to be debarred such publick favours: for the En<g ref="char:EOLhyphen"/>glish Jesuite Procurator there, told a worthy Clergy Priest, there was nothing for him, mean<g ref="char:EOLhyphen"/>ing such as he: of which I know no Reason, unless it be that the Clergy would never admit of any extraordinary authority from <hi>Rome,</hi> unani<g ref="char:EOLhyphen"/>mously agreed never to receive any Bulls or other Orders from <hi>Rome</hi> without the Kings Licence, and permission of the State, and ever opposed the Deposing Power: Duties which anciently belonged to the Imperial Crown of this Realm, and ought still to be observed by us. Which sufferings of theirs for so good a cause, is humbly submitted to your Majesties most gracious consideration.</p>
+               <closer>
+                  <dateline>
+                     <date>Feb. 11. 1679/80.</date>
+                  </dateline>
+                  <signed>David Morris.</signed>
+               </closer>
+               <postscript>
+                  <pb n="7" facs="tcp:204248:6"/>
+                  <p>THis Paper was presented to his Majesty in Council the 18th of <hi>February,</hi> 1679. by Mr. <hi>John Serjeant</hi> and Mr. <hi>David Morris;</hi> and being then read, they declared upon their Oaths that the Contents thereof was true. Whereupon it was Ordered by his Majesty, that this Paper should be kept safe in the Coun<g ref="char:EOLhyphen"/>cil Chest.</p>
+                  <closer>
+                     <signed>John Nicholas.</signed>
+                  </closer>
+               </postscript>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <pb facs="tcp:204248:7"/>
+            <pb facs="tcp:204248:7"/>
+            <p>I Appoint <hi>Gabriel Kunholt</hi> to Print these <hi>Informations,</hi> Perused and Signed by me according to the Order of the House of <hi>Commons;</hi> And that no other Person presume to Print them, <hi>March</hi> 26. 1681.</p>
+            <closer>
+               <signed>Wi Williams,</signed> Speaker.</closer>
+         </div>
+      </back>
+   </text>
+</TEI>
